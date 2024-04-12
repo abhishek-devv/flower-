@@ -1,4 +1,4 @@
 onload = () =>{
     document.body.classList.remove("container");
 };
-alert("This is for you <<<3 🫶🏻💗")
+alert("This is for you <<<3 🫶🏻💗");
